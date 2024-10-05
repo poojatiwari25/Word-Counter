@@ -1,0 +1,27 @@
+body{
+	padding: 50px 100px;
+}
+textarea{
+	width: 99.3%;
+	height: 150px;
+	text-align: center;
+	border-color: #0067B0;
+	font-size: 14px;
+}
+h1{
+	text-align: center;
+	padding: 10px;
+	margin: 0px;
+	color: white;
+	font-weight: bold;
+	background-color: #0067B0;
+}
+p{
+	text-align: center;
+	font-size: 22px;
+	background-color: #0067B0;
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	margin: 0px;
+}
